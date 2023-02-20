@@ -1,2 +1,2 @@
 # Coursera-Machine-Learning-Specialization
-i'll be sharing here Machine Learning Specialization labs and resources from Coursera
+I'll be sharing here both of Machine Learning and deep learning Specialization labs and resources from Coursera.
